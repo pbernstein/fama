@@ -1,0 +1,136 @@
+cash  and  equivalents|I|D|cashAndEquivalents
+accounts receivable|I|D|accountsReceivable
+total current assets|I|D|totalCurrentAssets
+total fixed assets|I|D|propertyPlantAndEquipment
+total assets|I|D|totalAssets
+accounts payable|I|D|accountsPayable
+total current liabilities|I|D|totalCurrentLiabilities
+total liabilities|I|D|totalLiabilities
+common stock equity|I|D|commonStockEquity
+total revenue|R|D|totalRevenue
+total net income|R|D|totalNetIncome
+total common shares out|I|S|totalCommonSharesOut
+additional paid-in capital|I|D|additionalPaidInCapital
+operating revenue|R|D|operatingRevenue
+adjustments to revenue|R|D|adjustmentsToRevenue
+cost of sales|R|D|costOfSales
+cost of sales with depreciation|R|D|costOfSalesWithDepreciation
+gross margin|R|D|grossMargin
+gross operating profit|R|D|grossOperatingProfit
+Research  and  Development (R and D;) Expense|R|D|researchAndDevelopmentExpense
+Selling, General  and  Administrative (SG and A;) Expense|R|D|sellingGeneralAndAdministrativeExpense
+advertising|R|D|advertising
+operating income|R|D|operatingIncome
+EBITDA|R|D|ebitda
+depreciation|R|D|depreciation
+depreciation (unrecognized)|R|D|depreciation(unrecognized)
+amortization|R|D|amortization
+amortization of intangibles|R|D|amortizationOfIntangibles
+operating profit after depreciation|R|D|operatingProfitAfterDepreciation
+interest income|R|D|interestIncome
+earnings from equity interest|R|D|earningsFromEquityInterest
+other income net|R|D|otherIncomeNet
+income, acquired in process r and a;|R|D|incomeAcquiredInProcessRAndA
+Income, Restructuring and M and A;|R|D|incomeRestructuringAndMAndA
+other special charges|R|D|otherSpecialCharges
+special income charges|R|D|specialIncomeCharges
+EBIT|R|D|ebit
+interest expense|R|D|interestExpense
+pre-tax income|R|D|pre-taxIncome
+income taxes|R|D|incomeTaxes
+minority interest|R|D|minorityInterest
+income before income taxes|R|D|incomeBeforeIncomeTaxes
+net income (continuing operations)|R|D|netIncome(continuingOperations)
+net income (discontinued operations)|R|D|netIncome(discontinuedOperations)
+net income (total operations)|R|D|netIncome(totalOperations)
+extraordinary income/losses|R|D|extraordinaryIncome/losses
+income from tax loss carryforward|R|D|incomeFromTaxLossCarryforward
+other gains/losses|R|D|otherGains/losses
+normalized income|R|D|normalizedIncome
+net income available for common|R|D|netIncomeAvailableForCommon
+preferred dividends|R|D|preferredDividends
+excise taxes|R|D|exciseTaxes
+restricted cash|I|D|restrictedCash
+marketable securities|I|D|marketableSecurities
+loans receivable|I|D|loansReceivable
+other receivable|I|D|otherReceivable
+receivables|I|D|receivables
+inventories, raw materials|I|D|inventoriesRawMaterials
+inventories, work in progress|I|D|inventoriesWorkInProgress
+inventories, purchased components|I|D|inventoriesPurchasedComponents
+inventories, finished goods|I|D|inventoriesFinishedGoods
+inventories, other|I|D|inventoriesOther
+inventories, adjustments  and  allowances|I|D|inventoriesAdjustmentsAndAllowances
+inventories|I|D|inventories
+prepaid expenses|I|D|prepaidExpenses
+current defered income taxes|I|D|currentDeferedIncomeTaxes
+other current assets|I|D|otherCurrentAssets
+land and improvements|I|D|landAndImprovements
+building and improvements|I|D|buildingAndImprovements
+machinery, furniture  and  equipment|I|D|machineryFurnitureAndEquipment
+construction in progress|I|D|constructionInProgress
+other fixed assets|I|D|otherFixedAssets
+gross fixed assets|I|D|grossFixedAssets
+accumulated depreciation|I|D|accumulatedDepreciation
+net fixed assets|I|D|netFixedAssets
+intangibles|I|D|intangibles
+cost in excess|I|D|costInExcess
+non-current deferred income taxes|I|D|non-currentDeferredIncomeTaxes
+other non-current assets|I|D|otherNon-currentAssets
+total non-current assets|I|D|totalNon-currentAssets
+inventory valuation method|I|D|inventoryValuationMethod
+notes payable|I|D|notesPayable
+short-term debt|I|D|short-termDebt
+accrued expenses|I|D|accruedExpenses
+accrued liabilities|I|D|accruedLiabilities
+deferred revenues|I|D|deferredRevenues
+current deferred income taxes|I|D|currentDeferredIncomeTaxes
+other current liabilities|I|D|otherCurrentLiabilities
+long-term debt|I|D|long-termDebt
+capital lease obligations|I|D|capitalLeaseObligations
+deferred income taxes|I|D|deferredIncomeTaxes
+other non-current liabilities|I|D|otherNon-currentLiabilities
+minority interest liability|I|D|minorityInterestLiability
+preferred equity outside stock equity|I|D|preferredEquityOutsideStockEquity
+total non-current liabilities|I|D|totalNon-currentLiabilities
+preferred stock equity|I|D|preferredStockEquity
+common par|I|D|commonPar
+cumulative translation adjustments|I|D|cumulativeTranslationAdjustments
+retained earnings|I|D|retainedEarnings
+treasury stock|I|S|treasuryStock
+other equity adjustments|I|D|otherEquityAdjustments
+total capitalization|I|D|totalCapitalization
+total equity|I|D|totalEquity
+total liabilities  and  stock equity|I|D|totalLiabilitiesAndStockEquity
+cash flow|I|D|cashFlow
+working capital|I|D|workingCapital
+free cash flow|I|D|freeCashFlow
+invested capital|I|D|investedCapital
+shares out (common class only)|I|S|sharesOut(commonClassOnly)
+preferred shares|I|S|preferredShares
+total ordinary shares|I|S|totalOrdinaryShares
+treasury shares|I|S|treasuryShares
+basic weighted shares|I|S|basicWeightedShares
+diluted weighted shares|I|S|dilutedWeightedShares
+number of employees|I|P|numberOfEmployees
+number of part-time employees|I|P|numberOfPart-timeEmployees
+sale of property, plant  and  equipment|I|D|saleOfPropertyPlantAndEquipment
+sale of long-term investments|I|D|saleOfLong-termInvestments
+sale of short-term investments|I|D|saleOfShort-termInvestments
+purchase of property, plant  and  equipment|I|D|purchaseOfPropertyPlantAndEquipment
+acquisitions|I|D|acquisitions
+purchase of long-term investments|I|D|purchaseOfLong-termInvestments
+purchase of  short-term investments|I|D|purchaseOfShort-termInvestments
+other investing changes, net|I|D|otherInvestingChangesNet
+cash from discontinued investing activities|I|D|cashFromDiscontinuedInvestingActivities
+net cash from investing activities|I|D|netCashFromInvestingActivities
+issuance of debt|I|D|issuanceOfDebt
+issuance of capital stock|I|D|issuanceOfCapitalStock
+repayment of long-term debt|I|D|repaymentOfLong-termDebt
+repurchase of capital stock|I|D|repurchaseOfCapitalStock
+payment of cash dividends|I|D|paymentOfCashDividends
+other financing charges, net|I|D|otherFinancingChargesNet
+cash from discontinued financing activities|I|D|cashFromDiscontinuedFinancingActivities
+net cash from financing activities|I|D|netCashFromFinancingActivities
+foreign sales|I|D|foreignSales
+domestic sales|I|D|domesticSales

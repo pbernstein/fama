@@ -1,0 +1,1 @@
+select concat(substring(date_format(e.insert_ts,'%T'),1,2),date_format(e.insert_ts,'%i')), (select min(h.open) from histprice h where h.eh_sk = e.eh_sk) as open from extract_history e where e.eh_sk = 'template' 
