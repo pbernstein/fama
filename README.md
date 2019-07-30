@@ -1,4 +1,3 @@
-
 # What is this?
 
 This project scrapes a variety of pricing and fundamental data about the us stock market.  
@@ -7,7 +6,7 @@ It uses that data to do regression analysis ( specifically, the fama french mode
 
 This was something I tinkered with and ran as a hobby for a few years, and the "point" of the code base evolved as my interests changed. It was initally a loose collection of scripts but started to get a little more structure as I felt like adding it.   This was never really intended to be shared, but I've moved on in my life and this a fun discussion point to have with fellow data nerds.  
 
-There were two main focuses that this code base got built around:
+# Major capabilities of the code base
 
 ## Playing the stock market pricing data
 
@@ -89,10 +88,6 @@ There are really two different 'production' environments.
 
 1) One that does the "builds" of the data, publishes the cleaned parsed data to wherever it needs to go, and publishes the next day's trade to the second production system.  
 2) An AWS EC2 instance that watches and acts on the feed from the first production system. It also monitors all the positions that it currently has in the market and reverses them if certain criteria are met.
-
-
-
-
 
 
 
