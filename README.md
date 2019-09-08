@@ -15,16 +15,16 @@ The application uses the Fama French Model to predict stock prices.
 https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
-This worked pretty well, and I got to a point where I could consistently get 5% - 10% better return than the market on an annual basis.  I got kind of bored with baby sitting it though and I don't have enough capital to live off of that return. Also, I came to the realization one day that I'm just not a gambler and that I want my impact on the world to be a bit broader than siphoning money out of the stock market.  Feel free to lift stuff directly, pull requests will be accepted :)
+This worked pretty well, and I got to a point where I could consistently get 5% - 10% better return than the market on an annual basis.  Feel free to lift stuff directly, pull requests will be accepted :)
 
 ## Selling data
 
-As a result of the work I had already done, I ended up with a lot of clean and current data that might be valuable.  I stood up a website on AWS and got all the feeds set up.  Fun times.  It published interesting events to a twitter account. All sorts of cool stuff.  However, I just couldn't get as excited about the marketing as the data work, and my day job got really fun and seemed like a better use of my time.  Again, feel free to steal!
+As a result of the work I had already done, I ended up with a lot of clean and current data that might be valuable.  I stood up a website on AWS and got all the feeds set up.  Fun times.  It published interesting events to a twitter account. All sorts of cool stuff.  Again, feel free to steal!
 
 
 # High level description:
 
-Fair warning, none of this was ever meant to be public. In truth it was mostly a hobby to play with interesting and dirty data at a scale my home computing environment could support. As I alluded to above, I wrote all this years ago during a period after grad school while my day job was a bit boring. Apologies for poorly documented code or lack of best practices, unit tests, etc. 
+Fair warning, none of this was written with the intent of sharing. In truth it was mostly a hobby to play with interesting and dirty data at a scale my home computing environment could support. I wrote all this years ago during a period after grad school while my day job was a bit boring. Apologies for poorly documented code or lack of best practices, unit tests, etc. 
 
 ## Languages
 
